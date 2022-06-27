@@ -1,0 +1,24 @@
+.table_caption {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+table{
+    border-collapse: collapse;
+}
+th {
+    border: 1px solid rgba(117, 95, 95, 0.599);
+    font-family: sans-serif;
+    text-align: left; 
+    padding: 10px 80px 10px 10px;
+}
+td {
+    border: 1px solid rgba(117, 95, 95, 0.599);
+    font-family: sans-serif;
+    text-align: left; 
+    padding: 10px 80px 10px 10px ;
+}
+.gender {
+    width: 15px;
+    height: 20px;
+}
